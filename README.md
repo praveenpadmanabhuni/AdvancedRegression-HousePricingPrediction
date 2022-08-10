@@ -18,8 +18,8 @@ The data contains the information about various significant variable or factors 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-### For Ridge Regression Model at Lambda = 0.001 Predicted and Actual Values are proprtionately distributed
-### For Lasso Regression Model at Lambda = 0.0001 Predicted and Actual Values are proprtionately distributed
+### For Ridge Regression Model at Lambda = 1 Predicted and Actual Values are proprtionately distributed
+### For Lasso Regression Model at Lambda = 0.001 Predicted and Actual Values are proprtionately distributed
 
 ### And below are some significant Variables
 1. OverallQual
